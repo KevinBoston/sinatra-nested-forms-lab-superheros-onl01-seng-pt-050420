@@ -17,3 +17,6 @@ class Team
 end
 
 
+#Team.assemble.each {|hero|hero.name 
+#hero.power
+#hero.bio}
